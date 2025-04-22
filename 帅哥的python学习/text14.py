@@ -1,0 +1,10 @@
+#encoding=gbk
+#passÓï¾ä Õ¼Î»·û
+for i in range(10):
+    pass
+
+if True:
+    pass
+
+while True:
+    pass
